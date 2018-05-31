@@ -1,0 +1,3 @@
+// @flow
+
+export const FETCH_PROJECT_STATUSES_REQUEST = 'projects/FETCH_PROJECT_STATUSES_REQUEST';

@@ -1,0 +1,9 @@
+// @flow
+
+export const FETCH_ISSUES_REQUEST = 'issues/FETCH_REQUEST';
+export const FETCH_RECENT_ISSUES_REQUEST = 'issues/FETCH_RECENT_REQUEST';
+export const REFETCH_ISSUES_REQUEST = 'issues/REFETCH_REQUEST';
+export const TRANSITION_ISSUE_REQUEST = 'issues/TRANSITION_ISSUE_REQUEST';
+export const COMMENT_REQUEST = 'issues/COMMENT_REQUEST';
+export const ASSIGN_ISSUE_REQUEST = 'issues/ASSIGN_ISSUE_REQUEST';
+export const SELECT_ISSUE = 'issues/SELECT';
